@@ -1,0 +1,9 @@
+============================================================
+AFTERIMAGE SYNC VALIDATION
+============================================================
+LAN 5p (1s sync): avgDrift=2.23ms maxDrift=16.01ms maxClientDiff=0.01ms
+Mixed 8p (1s sync): avgDrift=1.44ms maxDrift=16.02ms maxClientDiff=0.01ms
+Fast sync 4p (500ms): avgDrift=1.06ms maxDrift=16.01ms maxClientDiff=0.00ms
+50 viewers (2s sync): avgDrift=4.99ms maxDrift=16.04ms maxClientDiff=0.01ms
+
+Done.

@@ -1,0 +1,20 @@
+============================================================
+DYNAMIC SKILL POOL COMBAT AI VALIDATION
+============================================================
+
+--- Decision Speed vs Pool Size ---
+  10 skills: avg=0.0012ms p95=0.0022ms variety=100%
+  30 skills: avg=0.0015ms p95=0.0028ms variety=100%
+  50 skills: avg=0.0023ms p95=0.0069ms variety=100%
+ 100 skills: avg=0.0028ms p95=0.0049ms variety=100%
+ 200 skills: avg=0.0071ms p95=0.0090ms variety=91%
+ 500 skills: avg=0.0195ms p95=0.0227ms variety=62%
+
+--- Concurrent Bosses (100 skills) ---
+ 1 bosses: avg=0.0019ms total=200 decisions
+ 5 bosses: avg=0.0021ms total=1000 decisions
+10 bosses: avg=0.0021ms total=2000 decisions
+20 bosses: avg=0.0020ms total=4000 decisions
+50 bosses: avg=0.0019ms total=10000 decisions
+
+Done.

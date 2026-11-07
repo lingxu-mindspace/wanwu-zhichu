@@ -1,0 +1,16 @@
+============================================================
+NPC SOCIAL SIMULATION VALIDATION
+============================================================
+Generating 10000 NPCs with ~500 memories each...
+Generated in 2252ms | 4,996,290 memories | 491,831 connections
+
+--- Memory Query (10K queries) ---
+avg=0.0112ms p95=0.0157ms p99=0.0215ms
+
+--- Memory Decay ---
+Decayed: 1,224,523 | Remaining: 3,771,767 | Rate: 24.5%
+
+--- Player-Specific Search (full scan) ---
+Player player_42: 408 memories found in 125.05ms
+
+Done.

@@ -1,0 +1,9 @@
+============================================================
+TIANDAO + IMMUTABLE LOG VALIDATION
+============================================================
+1K/s x3s                 906/s |    2,800 evts |    160 checks | log: N/A
+10K/s x3s               6341/s |   19,100 evts |    944 checks | log: N/A
+50K/s x3s               6412/s |   19,300 evts |    942 checks | log: N/A
+100K/s x3s             63413/s |  191,000 evts |   9707 checks | log: N/A
+10K/s x10s+log          6340/s |   63,400 evts |   3252 checks | log: 63400,71ms
+200K/s x3s+log         73163/s |  220,000 evts |  10780 checks | log: 220000,223ms

@@ -1,0 +1,10 @@
+[Server] HTTP+WS on http://localhost:3007 | latency=0ms
+HIT LOCATION PHYSICS VALIDATION
+
+0ms: 50/50 hits(100%) avgRTT=5ms srv=0.220ms
+10ms: 50/50 hits(100%) avgRTT=16ms srv=0.120ms
+50ms: 50/50 hits(100%) avgRTT=58ms srv=0.100ms
+150ms: 50/50 hits(100%) avgRTT=158ms srv=0.080ms
+300ms: 50/50 hits(100%) avgRTT=313ms srv=0.120ms
+
+Done.
